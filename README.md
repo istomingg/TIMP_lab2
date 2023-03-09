@@ -107,7 +107,7 @@
 
 10. Локально выполните pull:
 
-**git push origin main**
+**git pull origin main**
 
 11. С помощью команды git log просмотрите историю в локальной версии ветки master:
 
